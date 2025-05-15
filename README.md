@@ -4,7 +4,9 @@ Autora: Elena Parra Raurell
 Assignatura: Cultura Digital - Aula 1 - UOC 
 
 Títol: "Hibridació i softwarització en la cultura visual digital: una aproximació a partir de The Weather Channel i BeReal"
+
 ![Hibridació](Image.png)
+
 # Introdució 
 La transformació de la cultura visual i mediàtica en l’era digital està profundament marcada pel paper central del programari. En El software toma el mando (2013), Lev Manovich argumenta que el programari no només actua com a eina de producció, sinó que s’ha convertit en l’element fonamental que configura, condiciona i redefineix la creació cultural contemporània. Aquesta softwarització implica una hibridació entre formats tradicionals i entorns digitals, generant noves formes d’expressió, percepció i interacció.
 
