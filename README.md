@@ -31,7 +31,11 @@ A través d'aquest enfocament, BeReal fusiona programació algorítmica, pràcti
 El concepte de “autenticitat forçada” és clau en aquest cas, ja que el programari imposa una lògica que busca revertir els estereotips visuals de les xarxes socials mitjançant un procés algorítmic i aleatori, que crea una nova pràctica cultural digital basada en la immediatesa i l’absència de filtratges.
 ## Reflexió 
 BeReal exemplifica la manera com el programari pot redefinir el que entenem per “autenticitat” en el context de la comunicació digital. A través de l’ús d’algorismes i programació, l’aplicació incentiva una estètica visual i comunicativa nova, amb el propòsit de revertir les pràctiques digitals que promouen la perfecta imatge artificial. D’aquesta manera, el programari no només gestiona el contingut, sinó que també regula i imposa noves dinàmiques socials, transformant la nostra relació amb les xarxes i la forma de mostrar-nos al món.
-
 ## Conclusió
 Els dos exemples presentats (The Weather Channel i BeReal) són perfectes per entendre com el programari està remodelant la cultura visual i les pràctiques socials. Des de la realitat mixta i els gràfics 3D en temps real a la reescriptura de l’autenticitat social digital, ambdós casos ens mostren com les eines digitals i els algorismes no només modifiquen el contingut, sinó que redefinen les formes de comunicació, expressió i interacció en la societat contemporània. Aquests canvis són essencials per comprendre la softwarització de la cultura que Manovich analitza i que es manifesta en múltiples àmbits de la nostra vida quotidiana.
-
+## Referències i Bibliografia 
+https://es.wikipedia.org/wiki/BeReal 
+https://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/
+https://quadern-interaccio-interactivitat.recursos.uoc.edu/es/4-6-inmersion-e-hibridacion/
+https://www.unrealengine.com/en-US/spotlights/the-weather-channel-s-new-studio-brings-immersive-mixed-reality-to-daily-live-broadcasts
+https://allenmedia.tv/weather-channel-bets-on-immersive-reality-with-simulations-of-local-weather-forecasts/
