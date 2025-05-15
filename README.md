@@ -1,4 +1,4 @@
-# PACPAC3_Manovich_Reloaded
+# PAC3_Manovich_Reloaded
 Autora: Elena Parra Raurell
 
 Assignatura: Cultura Digital - Aula 1 - UOC 
