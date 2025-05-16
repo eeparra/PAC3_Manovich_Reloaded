@@ -20,7 +20,8 @@ The Weather Channel ha implementat una innovadora forma de presentació meteorol
 ## Hibridació i relació amb Manovich
 Aquest cas exemplifica perfectament un dels conceptes clau de Lev Manovich: la softwarització del mitjà. Tradicionalment, els canals de televisió utilitzaven un format estèric i limitat per presentar la informació. Amb la integració de gràfics 3D generats per ordinador i el disseny de realitat mixta (MR), el canal crea una interfície immersiva que transcendeix el format de la televisió convencional. A través del programari, la línia entre entorn virtual i món real es difumina, fent que l’espectador experimenti una realitat augmentada.
 Manovich parla sovint de com el programari transforma les pràctiques culturals, i aquest cas n’és un exemple clar. El software no només es fa servir per produir gràfics, sinó que reconfigura tota l’experiència de consum del contingut, transformant la manera en què les persones perceben i interactuen amb el món a través dels mitjans de comunicació.
-Reflexió crítica
+
+## Reflexió crítica
 La possibilitat de navegar en escenaris virtuals immersius en temps real obre noves portes per la representació de dades i informació visual. En lloc de només mostrar gràfics estàtics o presentacions convencionals, The Weather Channel incorpora el programari com a motor cultural, creant una nova manera de viure les previsions meteorològiques. Això esdevé una clara demostració de com el programari transforma les interaccions visuals i la manera com ens connectem amb el món.
 
 # CAS 2. BeReal
